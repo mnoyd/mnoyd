@@ -12,9 +12,9 @@
 
 ## About Me
 
-I'm a Software Engineer with over 6 years of experience, specializing in back-end development and building highly capable data-intensive applications. I'm passionate about tackling challenging problems and continuously learning across a broad spectrum of web technologies.
+Worked in web development and system design for over 7 years. Experienced in designing and implementing microservices, event-driven architectures, and RESTful APIs. Proficient in TypeScript, JavaScript, Golang, and Node.js. Skilled in Docker, CI/CD, and AWS. I like optimizing code performance and ensuring high availability.
 
-- 🔭 I'm currently working on [Cờ Tư Lệnh (Commander Chess)](https://github.com/mnoyd/cotulenh-monorepo) - A JavaScript library for a Vietnamese chess variant
+- 🔭 I'm currently working on [Cờ Tư Lệnh (Commander Chess)](https://github.com/mnoyd/cotulenh-monorepo) - A TypeScript/JavaScript implementation of a traditional Vietnamese chess variant. The project includes three components: a core library for board representation, a game logic engine with rule enforcement, and an AI-powered chess engine for computer opponents. Currently implementing minimax algorithm with alpha-beta pruning for the AI component.
 - 🌱 I'm currently learning advanced system design patterns and game development concepts
 - 💬 Ask me about: Web Development, System Design, DevOps, JavaScript, TypeScript, Golang, Event-driven microservices, AWS
 - 📫 How to reach me: [mnoy.dev@gmail.com](mailto:mnoy.dev@gmail.com)
@@ -27,19 +27,19 @@ A JavaScript library for managing Commander Chess (Cờ Tư Lệnh), a Vietnames
 
 ```
 Current Board:
-12  ·  ·  ·  ·  ·  C  ·  ·  ·  ·  · 
-11  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  · 
-10  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  · 
- 9  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  · 
- 8  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  · 
- 7  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  · 
-   --------------------------------
- 6  ·  ·  ·  ·  · +F  ·  ·  ·  ·  · 
- 5  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  · 
- 4  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  · 
- 3  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  · 
- 2  ·  N  ·  F  ·  ·  ·  ·  ·  ·  · 
- 1  ·  ·  ·  ·  ·  ·  ·  C  ·  ·  · 
+12  ·  ·  ·  ·  ·  C  ·  ·  ·  ·  ·
+11  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+10  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+ 9  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+ 8  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+ 7  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+   ---------------------------------
+ 6  ·  ·  ·  ·  · +F  ·  ·  ·  ·  ·
+ 5  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+ 4  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+ 3  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+ 2  ·  N  ·  F  ·  ·  ·  ·  ·  ·  ·
+ 1  ·  ·  ·  ·  ·  ·  ·  C  ·  ·  ·
     a  b  c  d  e  f  g  h  i  j  k
 ```
 
@@ -73,6 +73,14 @@ Current Board:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mnoyd&theme=tokyonight" alt="GitHub Streak" />
 </div>
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on exciting projects or discussing new technologies. Feel free to reach out!
+
+- LinkedIn: [linkedin.com/in/mnoyd](https://linkedin.com/in/mnoyd)
+- Email: [mnoy.dev@gmail.com](mailto:mnoy.dev@gmail.com)
+- GitHub: [github.com/mnoyd](https://github.com/mnoyd)
 
 ---
 
