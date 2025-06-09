@@ -12,43 +12,18 @@
 
 ## About Me
 
-Worked in web development and system design for over 7 years. Experienced in designing and implementing microservices, event-driven architectures, and RESTful APIs. Proficient in TypeScript, JavaScript, Golang, and Node.js. Can also work in Java and Python. Skilled in Docker, CI/CD, and AWS. I like optimizing code performance and ensuring high availability.
+With over 8 years of experience in web development and system design, I specialize in developing and maintaining web products, ensuring code quality and security. I am experienced in designing and implementing microservices, event-driven architectures, and RESTful APIs. I am proficient in TypeScript, JavaScript, Golang, and Node.js, and can also work with Java and Python. My skills include Docker, CI/CD, and AWS, and I am passionate about optimizing code performance and ensuring high availability.
 
 - 🔭 I'm currently working on [Cờ Tư Lệnh (Commander Chess)](https://github.com/mnoyd/cotulenh-monorepo) - A TypeScript/JavaScript implementation of a traditional Vietnamese chess variant. The project includes three components: a core library for board representation, a game logic engine with rule enforcement, and an AI-powered chess engine for computer opponents. Currently implementing minimax algorithm with alpha-beta pruning for the AI component.
 - 🌱 I'm currently learning advanced system design patterns and game development concepts
 - 💬 Ask me about: Web Development, System Design, DevOps, JavaScript, TypeScript, Golang, Event-driven microservices, AWS
 - 📫 How to reach me: [mnoy.dev@gmail.com](mailto:mnoy.dev@gmail.com)
 
-## Featured Projects
-
-### 🎮 Cờ Tư Lệnh (Commander Chess)
-
-A JavaScript library for managing Commander Chess (Cờ Tư Lệnh), a Vietnamese chess variant with unique gameplay mechanics including piece stacking and terrain zones.
-
-```
-Current Board:
-12  ·  ·  ·  ·  ·  C  ·  ·  ·  ·  ·
-11  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
-10  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
- 9  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
- 8  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
- 7  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
-   ---------------------------------
- 6  ·  ·  ·  ·  · +F  ·  ·  ·  ·  ·
- 5  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
- 4  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
- 3  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
- 2  ·  N  ·  F  ·  ·  ·  ·  ·  ·  ·
- 1  ·  ·  ·  ·  ·  ·  ·  C  ·  ·  ·
-    a  b  c  d  e  f  g  h  i  j  k
-```
-
-**Technologies:** TypeScript, JavaScript, Node.js
 
 ## Skills
 
 ### Languages & Frameworks
-*   **Languages:** TypeScript, JavaScript, Golang
+*   **Languages:** TypeScript, JavaScript, Golang, Java
 *   **Web Frameworks:** Node.js, React, Next.js
 
 ### Cloud, DevOps & Databases
@@ -57,11 +32,6 @@ Current Board:
 *   **Databases:** MongoDB, PostgreSQL, Redis
 *   **Message Brokers:** RabbitMQ
 
-### Key Concepts
-*   System Design
-*   Event-Driven Microservices
-*   RESTful APIs
-*   Game Development
 
 ## 📊 GitHub Stats
 
